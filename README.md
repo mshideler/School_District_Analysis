@@ -46,3 +46,5 @@ After the Recalculation
 ![Spending After](https://github.com/mshideler/School_District_Analysis/blob/main/Resources/Spending_After_Recalc.PNG)
 
 ## Summary
+
+In summary, the overall Average and % Passing scores barely changed upon removal of Thomas High School's math and reading scores for 9th graders.  However, we see significant change when looking only at Thomas High School's % Passing scores before recalculating those values, which makes sense since a complete subset of scores is removed compared to the other schools.  Upon recalculating Thomas High School's % Passing scores, the change is minimal around +/-0.1% - +/-0.2%.  And again, when looking at the Per Student Spending Ranges, the Average and % Passing scores barely change.  Lastly, the average math and reading scores for Thomas High School's 9th graders changed to "NaN" in the tables displaying the average math scores and the average reading scores by grade per school.
